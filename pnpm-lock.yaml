@@ -118,6 +118,9 @@ devDependencies:
   '@iconify-json/material-symbols':
     specifier: ^1.1.74
     version: 1.1.80
+  '@iconify-json/simple-icons':
+    specifier: ^1.1.101
+    version: 1.1.101
   '@iconify/svelte':
     specifier: ^3.1.6
     version: 3.1.6(svelte@4.2.17)
@@ -2195,6 +2198,12 @@ packages:
 
   /@iconify-json/material-symbols@1.1.80:
     resolution: {integrity: sha512-JrDMmWeHxFFMp3BBSsjvDvSiYzJ0qdYmHAQYWY/L5fxVZcIoeoQvtQR0wM1iJN4UDIsnHwbpJQ/sqZ/cvph6sw==}
+    dependencies:
+      '@iconify/types': 2.0.0
+    dev: true
+
+  /@iconify-json/simple-icons@1.1.101:
+    resolution: {integrity: sha512-7h7iUvCok031UcYUt2+wPD21tOwu/AzFB2I2PzzoC3R1jsNJjn5YV3v1q0g2CXcMYAzcsCyH00RbpFPFAiqjcw==}
     dependencies:
       '@iconify/types': 2.0.0
     dev: true

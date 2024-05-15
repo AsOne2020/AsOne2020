@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asone2020.github.io/sitemap-index.xml
